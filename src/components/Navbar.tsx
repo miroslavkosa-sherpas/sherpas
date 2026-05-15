@@ -1,4 +1,4 @@
-const logoSrc = "http://localhost:3845/assets/0a3da3e528006850023b167a255ebc97f45eac10.svg";
+const logoSrc = "/sherpas-logo.svg";
 const menuIconSrc = "http://localhost:3845/assets/eaf62d5d01269565a7488f1e7f82d255ef2e83fa.svg";
 const signalIconSrc = "http://localhost:3845/assets/e8e5007ef6991ce51a0a876aad76125d64d84fc9.svg";
 const langArrowSrc = "http://localhost:3845/assets/3f86a490bc84a0f66b4124168ad47166a5360215.svg";
